@@ -1,0 +1,17 @@
+tmp
+
+# Python compiled files #
+#########################
+*.pyc
+build/*
+dist/*
+*egg*/*
+
+# JSON files #
+##############
+*.json
+
+# ipynb checkpoints #
+#####################
+*checkpoint.ipynb
+**/.ipynb_checkpoints/*

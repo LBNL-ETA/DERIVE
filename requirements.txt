@@ -1,0 +1,4 @@
+numpy
+pandas
+matplotlib
+git+https://github.com/LBNL-ETA/DOPER.git
