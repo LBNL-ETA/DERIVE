@@ -14,7 +14,7 @@ To illustrate the DERIVE functionality, example Jupyter notebooks can be found [
 
 [Example 1](https://github.com/LBNL-ETA/DERIVE/blob/master/examples/Simplified%20Local%20vs%20Global%20(MPC).ipynb) shows a comparison between local and integrated control of resources.
 
-## License
+## Copyright Notice
 Distributed Energy Resources Integrated Virtual Environment (DERIVE) Copyright (c) 2023, The Regents of the University of California, through Lawrence Berkeley National Laboratory (subject to receipt of any required approvals from the U.S. Dept. of Energy). All rights reserved.
 
 If you have questions about your rights to use or distribute this software, please contact Berkeley Lab's Intellectual Property Office at IPO@lbl.gov.
